@@ -1,3 +1,5 @@
-this is a text 
+this text is for
 for
 dogs
+but
+never for cats
